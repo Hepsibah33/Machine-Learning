@@ -1,7 +1,7 @@
 # Machine-Learning
 
-# Mailaram Hepsibah Grace 
+# Name   :   Mailaram Hepsibah Grace 
 
-# B201302
+# ID     :   B201302
 
-# CSE - E3 - C3
+# Class  :   CSE - E3 - C3
