@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning Lab
 
 # Name   :   Mailaram Hepsibah Grace 
 
